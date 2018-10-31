@@ -4,10 +4,6 @@ using namespace std;
 class MovieTicket
 {
 	
-	//TODO:
-	//Add multiple hall shows
-	//Add show timings
-	//Try adding printed ticket option
 	private:
 		int i,j;
 		string contact[12][30];
